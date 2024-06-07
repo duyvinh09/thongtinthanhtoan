@@ -120,4 +120,4 @@ toggleSwitch.addEventListener("change", switchTheme);
        });
 
 // Popup Chào Mừng
-    Swal.fire("Welcome !", "Chào Mừng Bạn Đến Với Website Của Đinh Duy Vinh.", "success");
+    Swal.fire("Welcome !", "Chào Mừng Bạn Đến Với Trang Của Đinh Duy Vinh.", "success");
